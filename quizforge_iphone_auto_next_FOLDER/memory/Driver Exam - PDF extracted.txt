@@ -1,0 +1,1250 @@
+{
+Question: "If you are arrested for DWI and refuse to take the chemical test requested by a police officer, your driver's license may be lost for how long?"
+Choice 1: "30 days"
+Choice 2: "1 year"
+Choice 3: "90 days"
+Choice 4: "60 days"
+Answer: 2
+}
+
+{
+Question: "When you see a vehicle approaching head-on in your lane of traffic, what should you do?"
+Choice 1: "Swerve to the left to go around"
+Choice 2: "Speed up to get out of the way"
+Choice 3: "Pull to the right, slow down, and sound your horn"
+Choice 4: "Pull to the left shoulder and stop"
+Answer: 3
+}
+
+{
+Question: "A truck or bus has blind spots on each side, in the rear, and in the front. Which statement is true?"
+Choice 1: "You should only drive in the no-zone when passing"
+Choice 2: "You should only drive in the no-zone when absolutely necessary, such as passing"
+Choice 3: "You should only drive in the no-zone when driving up or down a steep grade"
+Choice 4: "None of the above"
+Answer: 2
+}
+
+{
+Question: "If you are driving in an organized funeral procession, what lights must be used?"
+Choice 1: "Flashing emergency hazard lights"
+Choice 2: "Parking lights"
+Choice 3: "Headlights"
+Choice 4: "No lights"
+Answer: 1
+}
+
+{
+Question: "When parking your car downhill on a two-way street, your front wheels should be turned to the:"
+Choice 1: "Right"
+Choice 2: "Left"
+Choice 3: "Straight"
+Choice 4: "Any position if the emergency brake is on"
+Answer: 1
+}
+
+{
+Question: "When you are meeting or overtaking a school bus that is stopped and loading or unloading students on a two-lane roadway, what must you do?"
+Choice 1: "Sound your horn and move to the left side of the highway"
+Choice 2: "Come to a complete stop and proceed if there are no students in front of you"
+Choice 3: "Stop until the bus driver signals you or the bus starts proceeding"
+Choice 4: "Slow down and proceed with caution"
+Answer: 3
+}
+
+{
+Question: "When making a right turn at a red traffic light, what must you do?"
+Choice 1: "Slow down and proceed with caution"
+Choice 2: "Make a complete stop before turning"
+Choice 3: "Make a complete stop only when there is approaching traffic"
+Choice 4: "Stop past the crosswalk"
+Answer: 2
+}
+
+{
+Question: "When you see or hear an emergency vehicle approaching, what are you required by law to do?"
+Choice 1: "Stop where you are immediately"
+Choice 2: "Increase your speed to get out of the way"
+Choice 3: "Pull to the right as far as possible and stop"
+Choice 4: "Drive slowly so you can give it the right of way"
+Answer: 3
+}
+
+{
+Question: "Some streets have a center lane marked as a two-way left-turn lane. You may use this lane:"
+Choice 1: "To make a left turn"
+Choice 2: "To pass slow moving vehicles"
+Choice 3: "To park for a short time"
+Choice 4: "For merging"
+Answer: 1
+}
+
+{
+Question: "When a traffic light changes from red to green, what should you do?"
+Choice 1: "See if the way is clear and pull forward"
+Choice 2: "Sound your horn so pedestrians will cross in front of you"
+Choice 3: "Yield the right-of-way to traffic still within the intersection"
+Choice 4: "Immediately pull forward if the person behind you sounds their horn"
+Answer: 3
+}
+
+{
+Question: "A signal given by hand and arm or by a signaling device should be given:"
+Choice 1: "Only at night"
+Choice 2: "Only when there is other traffic"
+Choice 3: "Only if driving a passenger car or truck"
+Choice 4: "Whenever you are stopping, turning, or changing lanes"
+Answer: 4
+}
+
+{
+Question: "On two-lane roads, what does the solid yellow line on your side of the road mean?"
+Choice 1: "Use caution when passing"
+Choice 2: "You are nearing an intersection"
+Choice 3: "You pass on the right"
+Choice 4: "You are in a no passing zone"
+Answer: 4
+}
+
+{
+Question: "If you are convicted for a first-time DWI, how long is your license suspended?"
+Choice 1: "1 year"
+Choice 2: "6 months"
+Choice 3: "30 days with an added 60 days restricted driving"
+Choice 4: "5 years"
+Answer: 3
+}
+
+{
+Question: "You have made a wrong turn and entered the wrong lane of oncoming traffic. What should you do?"
+Choice 1: "Stop where you are and wait for help"
+Choice 2: "Pull off the road and turn around as quickly and safely as possible"
+Choice 3: "Keep driving in the right lane until you find a place to turn around"
+Choice 4: "Keep driving if there is no traffic in your lane"
+Answer: 2
+}
+
+{
+Question: "Which statement about bicyclists is true?"
+Choice 1: "Bicyclists are often overlooked by motorists"
+Choice 2: "You should remain a safe distance from a bicyclist"
+Choice 3: "When passing a bicyclist, you should pass with a car width or more"
+Choice 4: "All of the above"
+Answer: 4
+}
+
+{
+Question: "Motor vehicle taillights must be bright enough to be seen from what distance?"
+Choice 1: "500 feet"
+Choice 2: "1000 feet"
+Choice 3: "200 feet"
+Choice 4: "100 feet"
+Answer: 1
+}
+
+{
+Question: "Hydroplaning can begin at what speed?"
+Choice 1: "35 mph"
+Choice 2: "25 mph"
+Choice 3: "45 mph"
+Choice 4: "55 mph"
+Answer: 1
+}
+
+{
+Question: "When approaching a stop sign where there is no white stop line or crosswalk, where should you stop?"
+Choice 1: "Stop even with the stop sign"
+Choice 2: "Stop before entering the intersection"
+Choice 3: "Stop one car length before entering the intersection"
+Choice 4: "Slow down and continue if the way is clear"
+Answer: 2
+}
+
+{
+Question: "Which statement about large trucks is true?"
+Choice 1: "If you drive behind a large truck and cannot see the driver in the mirror, the driver cannot see you"
+Choice 2: "Trucks have blind spots on the sides, rear, and front"
+Choice 3: "Because of size, a tractor-trailer appears to be traveling slower than it really is"
+Choice 4: "All of the above"
+Answer: 4
+}
+
+{
+Question: "When merging onto a highway, when must you stop your vehicle?"
+Choice 1: "When drivers on the highway do not give you room to enter"
+Choice 2: "To park for a short time"
+Choice 3: "If there is no traffic in your lane"
+Choice 4: "Only when driving at night"
+Answer: 1
+}
+
+{
+Question: "When approaching a stopped emergency vehicle with flashing lights on a road with at least four lanes, what should you do?"
+Choice 1: "Come to a complete stop in your lane"
+Choice 2: "Slow down and, if safe, change lanes away from the emergency vehicle"
+Choice 3: "Stop and offer assistance"
+Choice 4: "Increase speed and maintain lane position"
+Answer: 2
+}
+
+{
+Question: "A white X-shaped sign or crossbuck sign indicates a railroad crossing. What does it mean?"
+Choice 1: "Come to a complete stop and proceed if there are no trains approaching"
+Choice 2: "Slow down and look for a train and be ready to stop"
+Choice 3: "Continue at normal speed while watching or listening for trains"
+Choice 4: "None of the above"
+Answer: 2
+}
+
+{
+Question: "If the accelerator becomes stuck while you are driving, what should you do?"
+Choice 1: "Turn off your key"
+Choice 2: "Shift into neutral and brake"
+Choice 3: "Shift into park"
+Choice 4: "Shift into reverse"
+Answer: 2
+}
+
+{
+Question: "You must carry your driver's license or permit:"
+Choice 1: "Any time you are driving"
+Choice 2: "For identification when purchasing a license plate"
+Choice 3: "Unless you are accompanied by a licensed driver"
+Choice 4: "Only if you are driving out of state"
+Answer: 1
+}
+
+{
+Question: "When meeting or overtaking a school bus that is stopped and loading or unloading students on a one-way street, what must you do?"
+Choice 1: "Come to a complete stop and proceed if there are no students in front of you"
+Choice 2: "Stop until the bus driver signals you or the bus starts proceeding"
+Choice 3: "Slow down and proceed with caution"
+Choice 4: "Sound your horn and pass slowly"
+Answer: 2
+}
+
+{
+Question: "When confronted with a driver who exhibits road rage, what should you do?"
+Choice 1: "Follow the other driver to their destination"
+Choice 2: "Move close to the other vehicle to identify the driver"
+Choice 3: "Honk your horn and make eye contact with the other driver"
+Choice 4: "Remain calm and do not react with similar behavior"
+Answer: 4
+}
+
+{
+Question: "When following another vehicle in traffic, what should you do?"
+Choice 1: "Keep a safe distance between your vehicle and the vehicle in front of you"
+Choice 2: "Drive close so other vehicles cannot cut in front of you"
+Choice 3: "Always rely on other drivers to slow at a safe gradual manner"
+Choice 4: "None of the above"
+Answer: 1
+}
+
+{
+Question: "If you accumulate 8 or more points in 18 months, what is the first suspension of your driving privileges?"
+Choice 1: "30 days"
+Choice 2: "60 days"
+Choice 3: "90 days"
+Choice 4: "120 days"
+Answer: 1
+}
+
+{
+Question: "A lane control signal with a solid red X over your lane means:"
+Choice 1: "This lane is reserved for traffic only"
+Choice 2: "You are exceeding the speed limit"
+Choice 3: "Do not drive in this lane"
+Choice 4: "There is a road hazard ahead"
+Answer: 3
+}
+
+{
+Question: "When turning left at an unmarked intersection, what should you do?"
+Choice 1: "Yield to oncoming vehicles going straight through the intersection"
+Choice 2: "Always make a complete stop before turning"
+Choice 3: "Pull to the right shoulder if your turn is delayed"
+Choice 4: "Flash your headlights so oncoming traffic will yield"
+Answer: 1
+}
+
+{
+Question: "When entering the highway from an entrance ramp with an acceleration lane, what should you do?"
+Choice 1: "Sound your horn and merge immediately"
+Choice 2: "Match your speed with highway traffic and merge with caution"
+Choice 3: "Flash your headlights to warn traffic you are merging"
+Choice 4: "Drivers in the driving lane or right lane must yield to you"
+Answer: 2
+}
+
+{
+Question: "What is braking distance?"
+Choice 1: "The time it takes to react and begin applying your brakes"
+Choice 2: "The distance your vehicle travels after you apply the brakes and before your vehicle stops"
+Choice 3: "The distance your brake pedal travels before engaging"
+Choice 4: "The distance between your accelerator and brake pedal"
+Answer: 2
+}
+
+{
+Question: "If you are convicted of a first-time DWI, how long is your license suspended?"
+Choice 1: "30 days with an added 60 days restricted driving"
+Choice 2: "5 years"
+Choice 3: "1 year"
+Choice 4: "6 months"
+Answer: 1
+}
+
+{
+Question: "If the Department of Revenue knows that you do not have liability insurance on your vehicle, what will happen?"
+Choice 1: "You will receive a notice of suspension"
+Choice 2: "You will be required to attend a driver safety course"
+Choice 3: "Your vehicle safety inspection sticker will be removed"
+Choice 4: "Your insurance company will suspend your driver's license for 45 days"
+Answer: 1
+}
+
+{
+Question: "Drivers entering a road from a driveway, alley, or side street:"
+Choice 1: "Must yield to vehicles already on the main road"
+Choice 2: "Must drive out slowly and honk the horn"
+Choice 3: "Have the right of way over a bicyclist approaching on the main road"
+Choice 4: "Are always required to turn right"
+Answer: 1
+}
+
+{
+Question: "If you are 16 years of age or older with a class F permit:"
+Choice 1: "You may drive with any licensed driver"
+Choice 2: "You can drive by yourself"
+Choice 3: "You can drive during daylight hours only"
+Choice 4: "You must drive with a licensed driver who is 21 years of age or older"
+Answer: 4
+}
+
+{
+Question: "Missouri law requires that license plates:"
+Choice 1: "Be renewed every 5 years"
+Choice 2: "Be securely fastened to the vehicle"
+Choice 3: "Be carried inside the vehicle"
+Choice 4: "Be mounted in a frame or have a protective plastic cover"
+Answer: 2
+}
+
+{
+Question: "Passing on the right is normally permitted when:"
+Choice 1: "Passing on a paved shoulder"
+Choice 2: "School bus is loading or unloading passengers"
+Choice 3: "The vehicle ahead of you is making a right turn"
+Choice 4: "Driving on a one-way street"
+Answer: 4
+}
+
+{
+Question: "When required by law and if the vehicle has a two-part safety system, what must you do?"
+Choice 1: "Wear both the lap and shoulder belt"
+Choice 2: "Wear only the lap belt"
+Choice 3: "You are not required to wear the belt if the vehicle is equipped with airbags"
+Choice 4: "All of the above"
+Answer: 1
+}
+
+{
+Question: "What does a No Left Turn sign mean?"
+Choice 1: "You may not turn left at that location"
+Choice 2: "You must turn left only"
+Choice 3: "Left turns are allowed only at night"
+Choice 4: "Only trucks may turn left"
+Answer: 1
+}
+
+{
+Question: "What does a No Right Turn sign mean?"
+Choice 1: "You may not turn right at that location"
+Choice 2: "You must turn right"
+Choice 3: "Right turns are allowed only when the light is green"
+Choice 4: "Only buses may turn right"
+Answer: 1
+}
+
+{
+Question: "What does a No U-Turn sign mean?"
+Choice 1: "You may not make a U-turn"
+Choice 2: "You must turn around"
+Choice 3: "Only emergency vehicles may make a U-turn"
+Choice 4: "The road is closed ahead"
+Answer: 1
+}
+
+{
+Question: "What does a No Trucks sign mean?"
+Choice 1: "Trucks may not use this road"
+Choice 2: "Only trucks may use this road"
+Choice 3: "Trucks must stop ahead"
+Choice 4: "Truck parking is ahead"
+Answer: 1
+}
+
+{
+Question: "What does a Stop sign mean?"
+Choice 1: "Slow down and continue"
+Choice 2: "Come to a complete stop before the crosswalk, stop line, or intersection"
+Choice 3: "Stop only if other traffic is present"
+Choice 4: "Yield only to vehicles on your right"
+Answer: 2
+}
+
+{
+Question: "What does a Yield sign mean?"
+Choice 1: "You must speed up"
+Choice 2: "Slow down and yield the right-of-way to traffic and pedestrians in or approaching the intersection"
+Choice 3: "You must stop for 10 seconds"
+Choice 4: "The road is closed ahead"
+Answer: 2
+}
+
+{
+Question: "What does a Do Not Enter sign mean?"
+Choice 1: "You may enter only if turning right"
+Choice 2: "You may not use this road at this entrance"
+Choice 3: "The road is slippery"
+Choice 4: "Traffic must merge ahead"
+Answer: 2
+}
+
+{
+Question: "What does a School Crossing sign warn you to do?"
+Choice 1: "Drive faster through the school zone"
+Choice 2: "Slow down and watch for children crossing the road"
+Choice 3: "Stop only if a teacher is present"
+Choice 4: "Park near the school entrance"
+Answer: 2
+}
+
+{
+Question: "What does a Railroad Crossing sign mean?"
+Choice 1: "A railroad crossing is near and you should be prepared to stop"
+Choice 2: "A train station is ahead"
+Choice 3: "You must turn around"
+Choice 4: "Only trains may use the road"
+Answer: 1
+}
+
+{
+Question: "What does a Slippery When Wet sign mean?"
+Choice 1: "The road may become unusually slippery in wet weather"
+Choice 2: "The road is closed during rain"
+Choice 3: "Only motorcycles may use the road"
+Choice 4: "You must stop when it rains"
+Answer: 1
+}
+
+{
+Question: "What does a Signal Ahead sign mean?"
+Choice 1: "A traffic signal is ahead"
+Choice 2: "You must signal immediately"
+Choice 3: "The lane is ending"
+Choice 4: "There is a railroad crossing ahead"
+Answer: 1
+}
+
+{
+Question: "What does an Intersection sign mean?"
+Choice 1: "Another road crosses the road you are on"
+Choice 2: "The road is one-way"
+Choice 3: "You must stop at every driveway"
+Choice 4: "The road becomes divided"
+Answer: 1
+}
+
+{
+Question: "What does a Curve sign mean?"
+Choice 1: "A curve is ahead and you should reduce speed"
+Choice 2: "The road is closed ahead"
+Choice 3: "You must make a U-turn"
+Choice 4: "The road is slippery only during snow"
+Answer: 1
+}
+
+{
+Question: "What does a Merge sign mean?"
+Choice 1: "Traffic from another road may enter the road you are on"
+Choice 2: "You must stop immediately"
+Choice 3: "Only trucks may enter"
+Choice 4: "The road ends here"
+Answer: 1
+}
+
+{
+Question: "What does an Added Lane sign mean?"
+Choice 1: "Traffic from another road will be entering with an added lane"
+Choice 2: "The road will close ahead"
+Choice 3: "You must merge left immediately"
+Choice 4: "The speed limit increases"
+Answer: 1
+}
+
+{
+Question: "What does a Begin Divided Roadway sign mean?"
+Choice 1: "The road will become two-way traffic divided by a median or barrier"
+Choice 2: "The road is ending"
+Choice 3: "You must stop before the sign"
+Choice 4: "Only one lane continues"
+Answer: 1
+}
+
+{
+Question: "Hazard lights must be on while driving in what situation?"
+Choice 1: "In a funeral procession"
+Choice 2: "On every highway"
+Choice 3: "Only at night"
+Choice 4: "When parking uphill"
+Answer: 1
+}
+
+{
+Question: "How old must you be to obtain an operator's license?"
+Choice 1: "15 years old"
+Choice 2: "16 years old"
+Choice 3: "18 years old"
+Choice 4: "21 years old"
+Answer: 3
+}
+
+{
+Question: "How old must you be to obtain a chauffeur's license?"
+Choice 1: "15 years old"
+Choice 2: "16 years old"
+Choice 3: "18 years old"
+Choice 4: "21 years old"
+Answer: 3
+}
+
+{
+Question: "When the broken center lines are yellow and traffic on the other side is moving in the opposite direction, when may you cross the broken line?"
+Choice 1: "Only when traffic is moving in the same direction"
+Choice 2: "To pass a vehicle traveling in the same direction when safe"
+Choice 3: "To park on the shoulder"
+Choice 4: "Only when turning right"
+Answer: 2
+}
+
+{
+Question: "What is the only time you should cross two solid yellow center lines?"
+Choice 1: "When passing a slow vehicle"
+Choice 2: "When turning left"
+Choice 3: "When driving at night"
+Choice 4: "When the road is clear"
+Answer: 2
+}
+
+{
+Question: "What does a solid yellow line on your side of the center line mean?"
+Choice 1: "No passing zone"
+Choice 2: "Passing is allowed at any time"
+Choice 3: "You may pass only buses"
+Choice 4: "Traffic is moving in the same direction"
+Answer: 1
+}
+
+{
+Question: "If required to stop because of a sign or signal, where must you stop?"
+Choice 1: "After the crosswalk"
+Choice 2: "Before the crosswalk or stop line"
+Choice 3: "In the middle of the intersection"
+Choice 4: "Only beside the stop sign"
+Answer: 2
+}
+
+{
+Question: "At an intersection when a traffic signal turns green, what must you do?"
+Choice 1: "Go immediately"
+Choice 2: "Let pedestrians already in or near the crosswalk cross before proceeding"
+Choice 3: "Honk before moving"
+Choice 4: "Turn right only"
+Answer: 2
+}
+
+{
+Question: "When approaching a flashing red light, what must you do?"
+Choice 1: "Slow down and proceed"
+Choice 2: "Stop completely"
+Choice 3: "Continue at normal speed"
+Choice 4: "Yield only to traffic from the left"
+Answer: 2
+}
+
+{
+Question: "What should you do when approaching a flashing yellow light?"
+Choice 1: "Stop completely"
+Choice 2: "Continue at full speed"
+Choice 3: "Slow down and proceed with caution"
+Choice 4: "Turn around"
+Answer: 3
+}
+
+{
+Question: "At a traffic control signal, what does a red light mean?"
+Choice 1: "Stop"
+Choice 2: "Go if traffic is clear"
+Choice 3: "Prepare to stop only if turning"
+Choice 4: "Yield only to pedestrians"
+Answer: 1
+}
+
+{
+Question: "At a traffic control signal, what does a green light mean?"
+Choice 1: "Stop"
+Choice 2: "Go"
+Choice 3: "Slow down"
+Choice 4: "Do not enter"
+Answer: 2
+}
+
+{
+Question: "At a traffic control signal, what does a yellow light mean?"
+Choice 1: "The light is changing from green to red"
+Choice 2: "The light is changing from red to green"
+Choice 3: "You must speed up"
+Choice 4: "You must turn left"
+Answer: 1
+}
+
+{
+Question: "When approaching an intersection with a traffic control signal and the light turns green-yellow-yellow, what should you do?"
+Choice 1: "Speed up through the intersection"
+Choice 2: "Stop only if another vehicle honks"
+Choice 3: "Stop before entering the intersection"
+Choice 4: "Turn right immediately"
+Answer: 3
+}
+
+{
+Question: "A red X over a lane means:"
+Choice 1: "Do not drive in this lane"
+Choice 2: "You may use this lane to pass"
+Choice 3: "This lane is only for trucks"
+Choice 4: "The speed limit has changed"
+Answer: 1
+}
+
+{
+Question: "A green arrow over a lane means:"
+Choice 1: "You may use this lane"
+Choice 2: "You must stop in this lane"
+Choice 3: "This lane is closed"
+Choice 4: "Only emergency vehicles may use this lane"
+Answer: 1
+}
+
+{
+Question: "On multi-lane roads traveling in the same direction, which lane should you generally drive in?"
+Choice 1: "The right lane, except when passing or making a left turn"
+Choice 2: "The left lane at all times"
+Choice 3: "The shoulder"
+Choice 4: "Any lane without signaling"
+Answer: 1
+}
+
+{
+Question: "What is the minimum speed limit on interstate highways?"
+Choice 1: "25 mph"
+Choice 2: "30 mph"
+Choice 3: "40 mph"
+Choice 4: "55 mph"
+Answer: 3
+}
+
+{
+Question: "When you come to a railroad crossing without flashing warning signals or crossing gates, what should you do?"
+Choice 1: "Sound your horn and keep going"
+Choice 2: "Be alert, slow down, and be prepared to stop"
+Choice 3: "Stop for at least one minute every time"
+Choice 4: "Drive around other stopped vehicles"
+Answer: 2
+}
+
+{
+Question: "You may not begin to cross railroad tracks unless:"
+Choice 1: "You can drive completely through without stopping"
+Choice 2: "The train has already passed one minute ago"
+Choice 3: "There is another vehicle behind you"
+Choice 4: "You are driving under the speed limit"
+Answer: 1
+}
+
+{
+Question: "When there is more than one track at a railroad crossing, what should you do after one train passes?"
+Choice 1: "Start crossing immediately"
+Choice 2: "Watch out for another train on another track"
+Choice 3: "Follow the car ahead without looking"
+Choice 4: "Stop only if a gate is down"
+Answer: 2
+}
+
+{
+Question: "When approaching a railroad crossing with a stop sign, what must you do?"
+Choice 1: "Slow down only"
+Choice 2: "Stop completely and proceed when safe"
+Choice 3: "Drive around the gate"
+Choice 4: "Stop only if you hear a train"
+Answer: 2
+}
+
+{
+Question: "If you hear a train coming at a railroad crossing but the lights are not flashing, what should you do?"
+Choice 1: "Continue because the lights are not flashing"
+Choice 2: "Stop and wait for the train to pass"
+Choice 3: "Speed up to cross before the train"
+Choice 4: "Drive around the railroad gate"
+Answer: 2
+}
+
+{
+Question: "If a vehicle approaching you has its high beams on, what should you do?"
+Choice 1: "Look directly at the headlights"
+Choice 2: "Look to the right edge of the road"
+Choice 3: "Turn on your high beams"
+Choice 4: "Stop immediately in the lane"
+Answer: 2
+}
+
+{
+Question: "At a four-way stop, who goes first?"
+Choice 1: "The driver who comes to a complete stop first"
+Choice 2: "The largest vehicle"
+Choice 3: "The driver turning left"
+Choice 4: "The driver with the most passengers"
+Answer: 1
+}
+
+{
+Question: "At a four-way stop, if drivers arrive at the same time, who should yield?"
+Choice 1: "The driver on the right yields to the driver on the left"
+Choice 2: "The driver on the left yields to the driver on the right"
+Choice 3: "Both drivers go at the same time"
+Choice 4: "The driver going straight must always yield"
+Answer: 2
+}
+
+{
+Question: "Drivers entering the flow of traffic from a valley, driveway, or roadside must:"
+Choice 1: "Yield to vehicles already on the main road"
+Choice 2: "Honk and enter immediately"
+Choice 3: "Always turn left"
+Choice 4: "Stop only if pedestrians are present"
+Answer: 1
+}
+
+{
+Question: "What should you do when you see an emergency vehicle with flashing lights behind you?"
+Choice 1: "Pull as far to the right as you can and stop"
+Choice 2: "Stop in the left lane"
+Choice 3: "Speed up and stay ahead"
+Choice 4: "Keep driving normally"
+Answer: 1
+}
+
+{
+Question: "When you see a school bus stopped with flashing lights, what must you do?"
+Choice 1: "Pass slowly"
+Choice 2: "Stop no matter which direction you are coming from"
+Choice 3: "Stop only if you are behind the bus"
+Choice 4: "Honk before passing"
+Answer: 2
+}
+
+{
+Question: "When parking on a hill with a curb, facing downhill, which way should your front wheels be turned?"
+Choice 1: "Away from the curb"
+Choice 2: "Toward the curb"
+Choice 3: "Straight ahead"
+Choice 4: "Toward the center of the road"
+Answer: 2
+}
+
+{
+Question: "When parking on a hill with a curb, facing uphill, which way should your front wheels be turned?"
+Choice 1: "Toward the curb"
+Choice 2: "Away from the curb"
+Choice 3: "Straight ahead"
+Choice 4: "Toward the shoulder"
+Answer: 2
+}
+
+{
+Question: "What does No Parking mean?"
+Choice 1: "You may stop only to load or unload passengers or freight"
+Choice 2: "You may park for five minutes"
+Choice 3: "You may leave your vehicle unattended"
+Choice 4: "You may park only with hazard lights on"
+Answer: 1
+}
+
+{
+Question: "No stopping, standing, or parking means:"
+Choice 1: "You may stop only in emergencies"
+Choice 2: "You may stop to load passengers"
+Choice 3: "You may park for a short time"
+Choice 4: "You may stand if the engine is running"
+Answer: 1
+}
+
+{
+Question: "When entering the highway, what should you use the acceleration lane for?"
+Choice 1: "To stop before merging"
+Choice 2: "To increase your speed to match highway traffic"
+Choice 3: "To pass vehicles on the shoulder"
+Choice 4: "To park temporarily"
+Answer: 2
+}
+
+{
+Question: "When leaving a highway, what should you use the deceleration lane for?"
+Choice 1: "To slow down"
+Choice 2: "To speed up"
+Choice 3: "To pass slower traffic"
+Choice 4: "To turn around"
+Answer: 1
+}
+
+{
+Question: "If you feel sleepy or tired while driving, what should you do?"
+Choice 1: "Open the window and keep driving"
+Choice 2: "Do not rely only on fresh air or loud music; stop and rest"
+Choice 3: "Drive faster to reach your destination"
+Choice 4: "Use high beams"
+Answer: 2
+}
+
+{
+Question: "If your vehicle breaks down, what should you do?"
+Choice 1: "Leave it in the traffic lane"
+Choice 2: "Make sure other drivers can see you and your vehicle"
+Choice 3: "Stand behind your car in traffic"
+Choice 4: "Turn off all lights"
+Answer: 2
+}
+
+{
+Question: "If possible, where should you get your disabled vehicle off the road?"
+Choice 1: "On the right shoulder"
+Choice 2: "In the left lane"
+Choice 3: "In the middle of the intersection"
+Choice 4: "On railroad tracks"
+Answer: 1
+}
+
+{
+Question: "If your vehicle breaks down, where should emergency flares or reflectors be placed?"
+Choice 1: "On the roadway behind the vehicle to warn other drivers"
+Choice 2: "Inside the trunk"
+Choice 3: "Only on the front seat"
+Choice 4: "Directly under the vehicle"
+Answer: 1
+}
+
+{
+Question: "Bicycles and motorcycles have the same rights as automobiles, but why should drivers judge them carefully?"
+Choice 1: "Their speeds and distances are harder to judge"
+Choice 2: "They always have no right-of-way"
+Choice 3: "They are allowed to ignore traffic lights"
+Choice 4: "They must always ride on sidewalks"
+Answer: 1
+}
+
+{
+Question: "When you pass a bicycle or motorcycle, what should you give them?"
+Choice 1: "Extra speed"
+Choice 2: "Plenty of room"
+Choice 3: "A horn warning only"
+Choice 4: "No lane space"
+Answer: 2
+}
+
+{
+Question: "If you are following a big truck or bus and cannot see one of its side mirrors, what does that mean?"
+Choice 1: "The truck driver probably cannot see you"
+Choice 2: "You are in the safest position"
+Choice 3: "You should pass immediately"
+Choice 4: "The truck is moving too slowly"
+Answer: 1
+}
+
+{
+Question: "What are the blind spots around large trucks and buses often called?"
+Choice 1: "Safe zones"
+Choice 2: "No-zones"
+Choice 3: "Passing zones"
+Choice 4: "Loading zones"
+Answer: 2
+}
+
+{
+Question: "Where should you not drive around a large truck or bus unless absolutely necessary?"
+Choice 1: "In the no-zone"
+Choice 2: "On a green lane"
+Choice 3: "On a two-way road"
+Choice 4: "In a parking lot"
+Answer: 1
+}
+
+{
+Question: "Children under what age must be in a child safety seat?"
+Choice 1: "Under 2"
+Choice 2: "Under 4"
+Choice 3: "Under 6"
+Choice 4: "Under 8"
+Answer: 2
+}
+
+{
+Question: "On a two-lane road, when following another vehicle under normal driving conditions, what is a good rule?"
+Choice 1: "Stay at least 10 seconds behind the car in front of you"
+Choice 2: "Stay exactly one car length behind"
+Choice 3: "Stay close enough to read the license plate"
+Choice 4: "Use your horn every few seconds"
+Answer: 1
+}
+
+{
+Question: "On a highway, when driving 40 MPH, about how far does your vehicle travel in one second?"
+Choice 1: "20 feet"
+Choice 2: "44 feet"
+Choice 3: "60 feet"
+Choice 4: "100 feet"
+Answer: 3
+}
+
+{
+Question: "When should you signal?"
+Choice 1: "Whenever you change directions, such as merging, changing lanes, turning left or right, or parking"
+Choice 2: "Only when another car is behind you"
+Choice 3: "Only at night"
+Choice 4: "Only when driving on a highway"
+Answer: 1
+}
+
+{
+Question: "Before turning, how far in advance must you signal?"
+Choice 1: "25 feet"
+Choice 2: "50 feet"
+Choice 3: "100 feet"
+Choice 4: "500 feet"
+Answer: 3
+}
+
+{
+Question: "What happens if you do not maintain financial responsibility in Missouri?"
+Choice 1: "Your license could be suspended"
+Choice 2: "You automatically get a chauffeur's license"
+Choice 3: "You may drive only at night"
+Choice 4: "Your license plate becomes permanent"
+Answer: 1
+}
+
+{
+Question: "If you are involved in an accident, what must you do?"
+Choice 1: "Stop"
+Choice 2: "Leave immediately"
+Choice 3: "Move your vehicle and never report it"
+Choice 4: "Only stop if your vehicle is damaged"
+Answer: 1
+}
+
+{
+Question: "If you are involved in an accident, when should you move your vehicle off the road?"
+Choice 1: "Only if possible"
+Choice 2: "Never"
+Choice 3: "Only after police arrive"
+Choice 4: "Only if no one saw the accident"
+Answer: 1
+}
+
+{
+Question: "If someone is hurt in an accident, what should you do?"
+Choice 1: "Help anyone who is hurt"
+Choice 2: "Leave before police arrive"
+Choice 3: "Move all injured people immediately"
+Choice 4: "Ignore the accident if traffic is moving"
+Answer: 1
+}
+
+{
+Question: "If an accident involves injury or major damage, when should the police be called?"
+Choice 1: "After one week"
+Choice 2: "Immediately"
+Choice 3: "Only if the other driver asks"
+Choice 4: "Only at night"
+Answer: 2
+}
+
+{
+Question: "If you come upon an accident and emergency help has not arrived, what should you do?"
+Choice 1: "Move your vehicle from the road"
+Choice 2: "Leave immediately"
+Choice 3: "Block all traffic"
+Choice 4: "Take pictures only"
+Answer: 1
+}
+
+{
+Question: "Refusal to take the BAC test results in what consequence?"
+Choice 1: "One-year suspension of your license"
+Choice 2: "Warning only"
+Choice 3: "Five-year suspension"
+Choice 4: "No penalty"
+Answer: 1
+}
+
+{
+Question: "Your first DWI can possibly result in:"
+Choice 1: "A 30-day suspension of your license, a fine, and jail time"
+Choice 2: "No license penalty"
+Choice 3: "Only a written warning"
+Choice 4: "A permanent license"
+Answer: 1
+}
+
+{
+Question: "You can be convicted of DWI with less than what BAC?"
+Choice 1: ".02 BAC"
+Choice 2: ".04 BAC"
+Choice 3: ".08 BAC"
+Choice 4: ".15 BAC"
+Answer: 3
+}
+
+{
+Question: "If you accumulate 8 points in an 18-month period, what may happen?"
+Choice 1: "You will be suspended for 30 days"
+Choice 2: "You will receive a new license"
+Choice 3: "You will be required to drive only at night"
+Choice 4: "Your license becomes commercial"
+Answer: 1
+}
+
+{
+Question: "Your vehicle is required to have how many lights according to the study guide?"
+Choice 1: "2 headlights, 2 taillights, and one license plate light"
+Choice 2: "1 headlight and 1 taillight"
+Choice 3: "4 headlights only"
+Choice 4: "Only brake lights"
+Answer: 1
+}
+
+{
+Question: "When are headlight laws applied?"
+Choice 1: "30 minutes before sunrise to 30 minutes after sunset"
+Choice 2: "30 minutes after sunset to 30 minutes before sunrise"
+Choice 3: "Only at noon"
+Choice 4: "Only during fog"
+Answer: 2
+}
+
+{
+Question: "At night, when meeting an oncoming vehicle, your dim lights should allow you to see how far ahead?"
+Choice 1: "100 feet"
+Choice 2: "300 feet"
+Choice 3: "500 feet"
+Choice 4: "1000 feet"
+Answer: 3
+}
+
+{
+Question: "At night, when following another vehicle, you should dim your lights when you are within how many feet?"
+Choice 1: "100 feet"
+Choice 2: "200 feet"
+Choice 3: "300 feet"
+Choice 4: "500 feet"
+Answer: 3
+}
+
+{
+Question: "At night, when meeting an oncoming vehicle, you should dim your lights when you are within how many feet?"
+Choice 1: "100 feet"
+Choice 2: "300 feet"
+Choice 3: "500 feet"
+Choice 4: "1000 feet"
+Answer: 3
+}
+
+{
+Question: "You should be able to see a license plate light at night from what distance?"
+Choice 1: "25 feet"
+Choice 2: "50 feet"
+Choice 3: "100 feet"
+Choice 4: "500 feet"
+Answer: 2
+}
+
+{
+Question: "A fully loaded tractor may take how far to come to a complete stop at 55 mph?"
+Choice 1: "About 100 feet"
+Choice 2: "About 250 feet"
+Choice 3: "About 400 feet"
+Choice 4: "About 600 feet"
+Answer: 3
+}
+
+{
+Question: "If a vehicle extends more than 5 feet from a vehicle, what must it have during the day?"
+Choice 1: "A red flag"
+Choice 2: "A white flag"
+Choice 3: "A yellow light"
+Choice 4: "A green reflector"
+Answer: 1
+}
+
+{
+Question: "If a vehicle extends more than 5 feet from a vehicle, what must it have at night?"
+Choice 1: "A green flag"
+Choice 2: "A red light"
+Choice 3: "A blue reflector"
+Choice 4: "A white sign"
+Answer: 2
+}
+
+{
+Question: "When approaching a stop sign, where must you come to a complete stop?"
+Choice 1: "Behind the stop line, before entering the crosswalk, or before entering the intersection"
+Choice 2: "Beside the stop sign only"
+Choice 3: "In the middle of the intersection"
+Choice 4: "After the crosswalk"
+Answer: 1
+}
+
+{
+Question: "After stopping and making sure it is clear, when can you turn right on a red light in Missouri?"
+Choice 1: "Only if there is a sign posted saying 'No Right Turn on Red'"
+Choice 2: "If it is not prohibited by a 'No Right Turn on Red' sign"
+Choice 3: "Only during daylight"
+Choice 4: "Never"
+Answer: 2
+}
+
+{
+Question: "If a vehicle is approaching you head-on in your lane, what should you do?"
+Choice 1: "Drive left into the other lane"
+Choice 2: "Honk, move as far to the right as possible, stop if necessary, and after slowing, drive onto the shoulder"
+Choice 3: "Speed up and stay in the lane"
+Choice 4: "Turn off your lights"
+Answer: 2
+}
+
+{
+Question: "You must obey traffic officers at all times while they are directing traffic, even if their directions differ from what?"
+Choice 1: "Signs, signals, and other traffic control devices"
+Choice 2: "Your GPS"
+Choice 3: "Other drivers' horns"
+Choice 4: "The speedometer"
+Answer: 1
+}
+
+{
+Question: "What does sudden hydroplaning reduce?"
+Choice 1: "Steering control"
+Choice 2: "Engine temperature"
+Choice 3: "Seat belt effectiveness"
+Choice 4: "License plate visibility"
+Answer: 1
+}
+
+{
+Question: "To prevent hydroplaning when driving on wet pavement, what should you do?"
+Choice 1: "Increase speed"
+Choice 2: "Reduce speed"
+Choice 3: "Use cruise control"
+Choice 4: "Brake suddenly"
+Answer: 2
+}
+
+{
+Question: "When someone says they are no longer valid and you cannot legally drive with them, what are they referring to in the study guide?"
+Choice 1: "Licenses that have been revoked"
+Choice 2: "License plates only"
+Choice 3: "Seat belts"
+Choice 4: "Turn signals"
+Answer: 1
+}
+
+{
+Question: "When turning left, what must you do?"
+Choice 1: "Yield to oncoming vehicles or bicycles"
+Choice 2: "Always turn before oncoming traffic"
+Choice 3: "Honk and turn immediately"
+Choice 4: "Use the shoulder"
+Answer: 1
+}
+
+{
+Question: "Headlights must be turned on how long after sunset?"
+Choice 1: "Immediately at sunset"
+Choice 2: "30 minutes after sunset"
+Choice 3: "1 hour after sunset"
+Choice 4: "Only after midnight"
+Answer: 2
+}
+
+{
+Question: "Headlights must be turned off by what time before sunrise?"
+Choice 1: "30 minutes before sunrise"
+Choice 2: "At sunrise"
+Choice 3: "1 hour before sunrise"
+Choice 4: "Only at noon"
+Answer: 1
+}
+
+{
+Question: "Remember, driving is a privilege, not a:"
+Choice 1: "Right"
+Choice 2: "Skill"
+Choice 3: "Test"
+Choice 4: "Permit"
+Answer: 1
+}
+
+{
+Question: "If you turn the wrong way on a street and are traveling in the wrong direction, what should you do?"
+Choice 1: "Pull off to the side of the road immediately and wait until it is safe, then turn around"
+Choice 2: "Keep driving until another driver stops you"
+Choice 3: "Reverse down the street"
+Choice 4: "Speed up to leave the area"
+Answer: 1
+}
+
+{
+Question: "If a right turn is permitted at a red light, what must you do first?"
+Choice 1: "Come to a complete stop and yield the right-of-way"
+Choice 2: "Turn without stopping"
+Choice 3: "Honk twice"
+Choice 4: "Move to the left lane"
+Answer: 1
+}
+
+{
+Question: "When driving in dense fog, what should you do?"
+Choice 1: "Use your high beams and travel faster"
+Choice 2: "Use your dim lights and travel cautiously"
+Choice 3: "Turn off all lights"
+Choice 4: "Drive in the center of the road"
+Answer: 2
+}
+
+{
+Question: "The only time you should park on the left side of the road is:"
+Choice 1: "On a one-way street"
+Choice 2: "On a two-way highway"
+Choice 3: "At an intersection"
+Choice 4: "On a railroad crossing"
+Answer: 1
+}
+
+{
+Question: "When parking on the left side of a one-way street, how should you park?"
+Choice 1: "Facing traffic"
+Choice 2: "Facing away from traffic"
+Choice 3: "Across the lane"
+Choice 4: "On the sidewalk"
+Answer: 1
+}

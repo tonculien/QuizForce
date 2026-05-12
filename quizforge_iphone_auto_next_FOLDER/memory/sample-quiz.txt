@@ -1,0 +1,44 @@
+{
+Question: "What is an array?"
+Choice 1: "A fixed-size, ordered collection of elements"
+Choice 2: "A method that returns a value"
+Choice 3: "A loop that repeats forever"
+Choice 4: "A class constructor"
+Answer: 1
+}
+
+{
+Question: "In Java, what is the first index of an array?"
+Choice 1: "1"
+Choice 2: "0"
+Choice 3: "-1"
+Choice 4: "array.length"
+Answer: 2
+}
+
+{
+Question: "What does arr.length return in Java?"
+Choice 1: "The first element"
+Choice 2: "The last index"
+Choice 3: "The number of elements in the array"
+Choice 4: "The memory address of the array"
+Answer: 3
+}
+
+{
+Question: "Which error happens when accessing arr[arr.length]?"
+Choice 1: "NullPointerException"
+Choice 2: "ArrayIndexOutOfBoundsException"
+Choice 3: "SyntaxError"
+Choice 4: "ClassCastException"
+Answer: 2
+}
+
+{
+Question: "What is the correct way to convert a String s into a char array in Java?"
+Choice 1: "s.toCharArray()"
+Choice 2: "s.toCharArrray()"
+Choice 3: "String.toArray(s)"
+Choice 4: "s.charArray()"
+Answer: 1
+}
