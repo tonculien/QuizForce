@@ -1,0 +1,499 @@
+{
+Flashcard: "Cognitive Science"
+Definition: "Cognitive science is the interdisciplinary study of mind and intelligent behavior, combining psychology, neuroscience, linguistics, philosophy, computer science, and anthropology."
+}
+
+{
+Flashcard: "Representation"
+Definition: "A representation is an internal or external structure that stands for information, such as a mental image, concept, symbol, map, model, or neural pattern."
+}
+
+{
+Flashcard: "Computation"
+Definition: "Computation is the transformation of representations according to rules, algorithms, probabilities, or learned patterns."
+}
+
+{
+Flashcard: "Working Memory"
+Definition: "Working memory is the limited-capacity system that temporarily holds and manipulates information for reasoning, comprehension, and action."
+}
+
+{
+Flashcard: "Attention"
+Definition: "Attention is the selective allocation of cognitive resources to certain stimuli, tasks, or mental contents while filtering or suppressing others."
+}
+
+{
+Flashcard: "Embodied Cognition"
+Definition: "Embodied cognition is the view that cognition is shaped by the body, action, perception, and interaction with the environment, not only by abstract internal symbols."
+}
+
+{
+Flashcard: "Predictive Processing"
+Definition: "Predictive processing is the theory that the brain constantly generates predictions about sensory input and updates them by minimizing prediction error."
+}
+
+{
+Flashcard: "Connectionism"
+Definition: "Connectionism explains cognition using networks of simple processing units whose connections are adjusted through learning."
+}
+
+{
+Flashcard: "Dual-Process Theory"
+Definition: "Dual-process theory distinguishes fast, automatic, intuitive processing from slower, controlled, reflective reasoning."
+}
+
+{
+Flashcard: "Theory of Mind"
+Definition: "Theory of Mind is the ability to attribute beliefs, desires, intentions, and mental states to oneself and others."
+}
+
+{
+Question: "What is the central goal of cognitive science?"
+Choice 1: "To study only the biological structure of the brain"
+Choice 2: "To explain mind and intelligent behavior using multiple disciplines"
+Choice 3: "To replace psychology with computer science"
+Choice 4: "To prove that humans think exactly like machines"
+Answer: 2
+}
+
+{
+Question: "Which set of fields best represents cognitive science?"
+Choice 1: "Psychology, neuroscience, linguistics, philosophy, computer science, and anthropology"
+Choice 2: "Chemistry, geology, economics, and architecture"
+Choice 3: "Only artificial intelligence and programming"
+Choice 4: "Only clinical psychology and medicine"
+Answer: 1
+}
+
+{
+Question: "In cognitive science, a mental representation is best described as:"
+Choice 1: "A physical muscle movement"
+Choice 2: "A structure that stands for information"
+Choice 3: "A random emotional reaction"
+Choice 4: "A reflex without meaning"
+Answer: 2
+}
+
+{
+Question: "The classical computational theory of mind is most closely associated with the idea that thinking involves:"
+Choice 1: "Symbol manipulation according to rules"
+Choice 2: "Only hormone regulation"
+Choice 3: "Purely random neural firing"
+Choice 4: "No internal structure"
+Answer: 1
+}
+
+{
+Question: "What is a major criticism of the classical symbolic view of cognition?"
+Choice 1: "It explains too much about emotion"
+Choice 2: "It may underemphasize learning, context, embodiment, and neural dynamics"
+Choice 3: "It rejects all forms of logic"
+Choice 4: "It cannot represent language at all"
+Answer: 2
+}
+
+{
+Question: "Connectionist models are usually based on:"
+Choice 1: "Networks of simple units with weighted connections"
+Choice 2: "Single handwritten rules only"
+Choice 3: "The idea that cognition has no structure"
+Choice 4: "A fixed list of dictionary definitions"
+Answer: 1
+}
+
+{
+Question: "In a neural network, learning commonly involves:"
+Choice 1: "Changing connection weights based on error or feedback"
+Choice 2: "Deleting all inputs"
+Choice 3: "Avoiding pattern recognition"
+Choice 4: "Using only conscious verbal rules"
+Answer: 1
+}
+
+{
+Question: "A key advantage of connectionist models is that they can:"
+Choice 1: "Never make errors"
+Choice 2: "Learn patterns from examples"
+Choice 3: "Avoid all forms of representation"
+Choice 4: "Work only with perfect logic proofs"
+Answer: 2
+}
+
+{
+Question: "The Turing Test is mainly concerned with whether a machine can:"
+Choice 1: "Produce behavior that appears intelligent in conversation"
+Choice 2: "Have a human brain"
+Choice 3: "Feel pain biologically"
+Choice 4: "Run faster than all computers"
+Answer: 1
+}
+
+{
+Question: "Searle's Chinese Room argument is intended to challenge the claim that:"
+Choice 1: "Syntax alone is sufficient for genuine understanding"
+Choice 2: "Humans can learn Chinese"
+Choice 3: "Computers can process symbols"
+Choice 4: "Language exists"
+Answer: 1
+}
+
+{
+Question: "In Searle's Chinese Room, the person inside the room manipulates Chinese symbols by:"
+Choice 1: "Understanding their meaning directly"
+Choice 2: "Following formal rules without understanding Chinese"
+Choice 3: "Using emotional intuition only"
+Choice 4: "Reading a neuroscience textbook"
+Answer: 2
+}
+
+{
+Question: "Working memory differs from short-term storage because it emphasizes:"
+Choice 1: "Temporary holding and active manipulation of information"
+Choice 2: "Permanent storage of childhood memories"
+Choice 3: "Only sensory reflexes"
+Choice 4: "Muscle memory"
+Answer: 1
+}
+
+{
+Question: "Which task most clearly uses working memory?"
+Choice 1: "Repeating a phone number while rearranging its digits"
+Choice 2: "Sleeping"
+Choice 3: "Digesting food"
+Choice 4: "Blinking automatically"
+Answer: 1
+}
+
+{
+Question: "According to Baddeley's model, the phonological loop is mainly involved in:"
+Choice 1: "Verbal and auditory information"
+Choice 2: "Smell processing"
+Choice 3: "Long-term muscle growth"
+Choice 4: "Blood pressure control"
+Answer: 1
+}
+
+{
+Question: "In Baddeley's model, the visuospatial sketchpad is mainly involved in:"
+Choice 1: "Visual and spatial information"
+Choice 2: "Grammar rules only"
+Choice 3: "Moral judgment only"
+Choice 4: "Immune responses"
+Answer: 1
+}
+
+{
+Question: "The central executive in working memory is mainly responsible for:"
+Choice 1: "Attention control and coordination of subsystems"
+Choice 2: "Storing all memories permanently"
+Choice 3: "Producing sensory input"
+Choice 4: "Replacing long-term memory"
+Answer: 1
+}
+
+{
+Question: "Selective attention refers to the ability to:"
+Choice 1: "Focus on relevant information while ignoring distractions"
+Choice 2: "Remember every stimulus equally"
+Choice 3: "Stop all perception"
+Choice 4: "Avoid conscious thought"
+Answer: 1
+}
+
+{
+Question: "The Stroop effect demonstrates that:"
+Choice 1: "Automatic processes can interfere with controlled attention"
+Choice 2: "Color vision is impossible"
+Choice 3: "Reading never becomes automatic"
+Choice 4: "Attention has unlimited capacity"
+Answer: 1
+}
+
+{
+Question: "In the classic Stroop task, people are slower when:"
+Choice 1: "The word meaning conflicts with the ink color"
+Choice 2: "The word and ink color are identical"
+Choice 3: "There are no words"
+Choice 4: "They close their eyes"
+Answer: 1
+}
+
+{
+Question: "Bottom-up attention is primarily driven by:"
+Choice 1: "Salient features in the environment"
+Choice 2: "Long-term goals only"
+Choice 3: "Formal logic only"
+Choice 4: "Social norms only"
+Answer: 1
+}
+
+{
+Question: "Top-down attention is primarily driven by:"
+Choice 1: "The observer's goals, expectations, or task demands"
+Choice 2: "Only loud noises"
+Choice 3: "Random visual motion"
+Choice 4: "Reflexes without intention"
+Answer: 1
+}
+
+{
+Question: "Predictive processing suggests that perception is:"
+Choice 1: "A process of prediction and error correction"
+Choice 2: "A passive copy of the external world"
+Choice 3: "Independent from prior knowledge"
+Choice 4: "Always perfectly accurate"
+Answer: 1
+}
+
+{
+Question: "In predictive processing, prediction error occurs when:"
+Choice 1: "Sensory input differs from the brain's prediction"
+Choice 2: "The brain refuses to process input"
+Choice 3: "A person remembers something correctly"
+Choice 4: "There is no sensory information"
+Answer: 1
+}
+
+{
+Question: "A Bayesian approach to cognition emphasizes:"
+Choice 1: "Updating beliefs based on prior probabilities and evidence"
+Choice 2: "Rejecting probability entirely"
+Choice 3: "Using only emotional preference"
+Choice 4: "Avoiding uncertainty"
+Answer: 1
+}
+
+{
+Question: "Embodied cognition challenges the idea that cognition is:"
+Choice 1: "Completely separate from body, action, and environment"
+Choice 2: "Influenced by perception"
+Choice 3: "Related to motor systems"
+Choice 4: "Situated in real-world activity"
+Answer: 1
+}
+
+{
+Question: "Which example best fits embodied cognition?"
+Choice 1: "Gesture helping someone solve a spatial problem"
+Choice 2: "Thinking occurring without any body or environment"
+Choice 3: "Memory existing only as a dictionary entry"
+Choice 4: "Ignoring perception during action"
+Answer: 1
+}
+
+{
+Question: "Situated cognition emphasizes that thinking is shaped by:"
+Choice 1: "The context and environment in which activity occurs"
+Choice 2: "Only abstract rules detached from practice"
+Choice 3: "Only genetic code"
+Choice 4: "Only formal language"
+Answer: 1
+}
+
+{
+Question: "The extended mind thesis argues that cognition can sometimes:"
+Choice 1: "Extend into tools, artifacts, and environmental supports"
+Choice 2: "Exist only inside the skull"
+Choice 3: "Avoid all external resources"
+Choice 4: "Become unrelated to action"
+Answer: 1
+}
+
+{
+Question: "A notebook used by a person with memory impairment can be an example in arguments about:"
+Choice 1: "The extended mind"
+Choice 2: "Hydroplaning"
+Choice 3: "Operant conditioning only"
+Choice 4: "Color blindness"
+Answer: 1
+}
+
+{
+Question: "In language, syntax refers to:"
+Choice 1: "Rules for combining words into structured sentences"
+Choice 2: "The emotional tone of a voice only"
+Choice 3: "The biological structure of the ear"
+Choice 4: "Random word association"
+Answer: 1
+}
+
+{
+Question: "Semantics is mainly concerned with:"
+Choice 1: "Meaning"
+Choice 2: "Muscle control"
+Choice 3: "Sound volume"
+Choice 4: "Eye movement"
+Answer: 1
+}
+
+{
+Question: "Pragmatics is mainly concerned with:"
+Choice 1: "How context affects language use and interpretation"
+Choice 2: "The color of printed words"
+Choice 3: "The number of neurons in the brain"
+Choice 4: "Reflex speed"
+Answer: 1
+}
+
+{
+Question: "A phoneme is:"
+Choice 1: "A basic contrastive sound unit in a language"
+Choice 2: "A complete paragraph"
+Choice 3: "A type of moral judgment"
+Choice 4: "A visual illusion"
+Answer: 1
+}
+
+{
+Question: "A morpheme is:"
+Choice 1: "The smallest meaningful unit of language"
+Choice 2: "A meaningless sound only"
+Choice 3: "A brain region"
+Choice 4: "A type of attention filter"
+Answer: 1
+}
+
+{
+Question: "The Sapir-Whorf hypothesis is most closely related to the idea that:"
+Choice 1: "Language may influence thought"
+Choice 2: "Thought has no connection to language"
+Choice 3: "All languages have identical vocabulary"
+Choice 4: "Language prevents cognition"
+Answer: 1
+}
+
+{
+Question: "Theory of Mind is important because it allows people to:"
+Choice 1: "Reason about others' beliefs, desires, and intentions"
+Choice 2: "See through walls"
+Choice 3: "Avoid all social interaction"
+Choice 4: "Store visual images only"
+Answer: 1
+}
+
+{
+Question: "A false-belief task is commonly used to study:"
+Choice 1: "Theory of Mind"
+Choice 2: "Depth perception only"
+Choice 3: "Motor reflexes"
+Choice 4: "Taste preference"
+Answer: 1
+}
+
+{
+Question: "In a false-belief task, success requires understanding that another person:"
+Choice 1: "Can hold a belief that differs from reality"
+Choice 2: "Always knows the truth"
+Choice 3: "Cannot have mental states"
+Choice 4: "Only reacts mechanically"
+Answer: 1
+}
+
+{
+Question: "Dual-process theory usually distinguishes between:"
+Choice 1: "Fast automatic processing and slow controlled reasoning"
+Choice 2: "Vision and digestion"
+Choice 3: "Language and blood circulation"
+Choice 4: "Sleep and hearing"
+Answer: 1
+}
+
+{
+Question: "System 1 processing is typically described as:"
+Choice 1: "Fast, automatic, and intuitive"
+Choice 2: "Slow, deliberate, and rule-based only"
+Choice 3: "Completely unconscious and always wrong"
+Choice 4: "Impossible to study"
+Answer: 1
+}
+
+{
+Question: "System 2 processing is typically described as:"
+Choice 1: "Slow, controlled, and reflective"
+Choice 2: "Always emotional and automatic"
+Choice 3: "Purely sensory"
+Choice 4: "A reflex arc"
+Answer: 1
+}
+
+{
+Question: "The availability heuristic occurs when people judge likelihood based on:"
+Choice 1: "How easily examples come to mind"
+Choice 2: "Exact statistical calculation every time"
+Choice 3: "Random guessing only"
+Choice 4: "Grammar rules"
+Answer: 1
+}
+
+{
+Question: "Confirmation bias is the tendency to:"
+Choice 1: "Seek or interpret evidence in ways that support existing beliefs"
+Choice 2: "Forget all prior beliefs"
+Choice 3: "Always change one's mind"
+Choice 4: "Use only mathematical proofs"
+Answer: 1
+}
+
+{
+Question: "In cognitive neuroscience, lesion studies help researchers infer:"
+Choice 1: "Which functions may depend on damaged brain areas"
+Choice 2: "The exact meaning of every dream"
+Choice 3: "That the brain has no specialization"
+Choice 4: "That behavior is unrelated to the brain"
+Answer: 1
+}
+
+{
+Question: "fMRI is commonly used to measure:"
+Choice 1: "Blood-oxygen-level changes associated with neural activity"
+Choice 2: "Direct thoughts as sentences"
+Choice 3: "Bone density only"
+Choice 4: "The exact firing of every neuron"
+Answer: 1
+}
+
+{
+Question: "EEG is especially useful for studying:"
+Choice 1: "Temporal patterns of brain activity"
+Choice 2: "The shape of bones"
+Choice 3: "Only long-term personality"
+Choice 4: "The mass of the brain"
+Answer: 1
+}
+
+{
+Question: "A limitation of fMRI is that it generally has:"
+Choice 1: "Better spatial resolution than temporal resolution"
+Choice 2: "Perfect timing at the level of single neurons"
+Choice 3: "No relationship to brain activity"
+Choice 4: "No need for interpretation"
+Answer: 1
+}
+
+{
+Question: "A limitation of EEG is that it generally has:"
+Choice 1: "High temporal resolution but weaker spatial localization"
+Choice 2: "Perfect spatial localization"
+Choice 3: "No ability to track timing"
+Choice 4: "No sensitivity to brain activity"
+Answer: 1
+}
+
+{
+Question: "The symbol grounding problem asks how:"
+Choice 1: "Symbols get meaning rather than merely being manipulated formally"
+Choice 2: "Cars obey traffic lights"
+Choice 3: "Muscles grow after exercise"
+Choice 4: "Clouds form rain"
+Answer: 1
+}
+
+{
+Question: "A cognitive architecture is:"
+Choice 1: "A general framework for modeling the structure and processes of cognition"
+Choice 2: "A building designed for psychology students"
+Choice 3: "A single reflex"
+Choice 4: "A random list of facts"
+Answer: 1
+}

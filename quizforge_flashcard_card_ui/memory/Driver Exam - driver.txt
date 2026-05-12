@@ -1,0 +1,269 @@
+{
+Question: "When operating a motor vehicle in Missouri, which item must you carry to show financial responsibility?"
+Choice 1: "A vehicle maintenance record"
+Choice 2: "Proof of insurance or other accepted financial responsibility"
+Choice 3: "A personal property tax receipt"
+Choice 4: "A vehicle purchase agreement"
+Answer: 2
+}
+
+{
+Question: "A driver with a Class F permit who is 16 years of age or older may drive only when accompanied by whom?"
+Choice 1: "A licensed driver who is at least 21 years old"
+Choice 2: "Any passenger who has owned a car before"
+Choice 3: "A licensed driver who is at least 18 years old"
+Choice 4: "Another permit holder with driving experience"
+Answer: 1
+}
+
+{
+Question: "If you are arrested for DWI and refuse to take a chemical or BAC test, what happens to your driving privilege?"
+Choice 1: "It is suspended for 30 days"
+Choice 2: "It is revoked for 1 year"
+Choice 3: "It is restricted for 60 days"
+Choice 4: "It is cancelled only after a conviction"
+Answer: 2
+}
+
+{
+Question: "For a first DWI conviction in Missouri, what is the usual license penalty?"
+Choice 1: "A 1-year revocation with no restricted driving"
+Choice 2: "A 60-day suspension followed by 30 days of restricted driving"
+Choice 3: "A 30-day suspension followed by 60 days of restricted driving"
+Choice 4: "Only a driver safety course requirement"
+Answer: 3
+}
+
+{
+Question: "If you accumulate 8 or more points in 18 months, what is the first suspension period?"
+Choice 1: "15 days"
+Choice 2: "30 days"
+Choice 3: "60 days"
+Choice 4: "1 year"
+Answer: 2
+}
+
+{
+Question: "What is the minimum speed on a Missouri interstate highway unless otherwise posted or specially permitted?"
+Choice 1: "30 mph"
+Choice 2: "35 mph"
+Choice 3: "40 mph"
+Choice 4: "45 mph"
+Answer: 3
+}
+
+{
+Question: "Hydroplaning may begin at about what speed?"
+Choice 1: "25 mph"
+Choice 2: "35 mph"
+Choice 3: "45 mph"
+Choice 4: "55 mph"
+Answer: 2
+}
+
+{
+Question: "Which action is recommended when driving on wet roads?"
+Choice 1: "Drive closer to the vehicle ahead"
+Choice 2: "Brake sharply to check traction"
+Choice 3: "Slow down and increase following distance"
+Choice 4: "Use high beams at all times"
+Answer: 3
+}
+
+{
+Question: "When must headlights be turned on in Missouri?"
+Choice 1: "Only when driving outside city limits"
+Choice 2: "From 30 minutes after sunset until 30 minutes before sunrise"
+Choice 3: "Only between midnight and sunrise"
+Choice 4: "Whenever driving faster than 40 mph"
+Answer: 2
+}
+
+{
+Question: "You must dim your headlights when you are within how many feet of an oncoming vehicle?"
+Choice 1: "100 feet"
+Choice 2: "300 feet"
+Choice 3: "500 feet"
+Choice 4: "700 feet"
+Answer: 3
+}
+
+{
+Question: "When following another vehicle at night, you must dim your headlights within how many feet?"
+Choice 1: "100 feet"
+Choice 2: "200 feet"
+Choice 3: "300 feet"
+Choice 4: "500 feet"
+Answer: 3
+}
+
+{
+Question: "How far in advance must you signal before turning or changing lanes?"
+Choice 1: "50 feet"
+Choice 2: "75 feet"
+Choice 3: "100 feet"
+Choice 4: "150 feet"
+Answer: 3
+}
+
+{
+Question: "Before changing lanes, why should you look over your shoulder?"
+Choice 1: "To check the speed limit sign behind you"
+Choice 2: "To make sure your signal is working"
+Choice 3: "To check the blind spot that mirrors may not show"
+Choice 4: "To warn drivers behind you"
+Answer: 3
+}
+
+{
+Question: "At a stop sign with a stop line, where must you stop?"
+Choice 1: "Behind the stop line"
+Choice 2: "In the crosswalk"
+Choice 3: "Past the stop line if no traffic is coming"
+Choice 4: "Only after entering the intersection"
+Answer: 1
+}
+
+{
+Question: "At a four-way stop, if two vehicles arrive at the same time, who should go first?"
+Choice 1: "The driver on the left"
+Choice 2: "The driver on the right"
+Choice 3: "The driver with the larger vehicle"
+Choice 4: "The driver going straight only"
+Answer: 2
+}
+
+{
+Question: "What must you do before making a right turn on red?"
+Choice 1: "Slow down and turn if no vehicle is nearby"
+Choice 2: "Come to a complete stop and yield to pedestrians and traffic"
+Choice 3: "Honk once before turning"
+Choice 4: "Move into the left lane before turning"
+Answer: 2
+}
+
+{
+Question: "A flashing red traffic light means you should:"
+Choice 1: "Slow down and continue without stopping"
+Choice 2: "Stop completely and proceed only when safe"
+Choice 3: "Stop only if another vehicle is present"
+Choice 4: "Speed up to clear the intersection"
+Answer: 2
+}
+
+{
+Question: "A flashing yellow traffic light means you should:"
+Choice 1: "Come to a complete stop every time"
+Choice 2: "Slow down and proceed with caution"
+Choice 3: "Treat it as a stop sign"
+Choice 4: "Yield only to vehicles on your left"
+Answer: 2
+}
+
+{
+Question: "When meeting or overtaking a school bus stopped to load or unload students, what must you do?"
+Choice 1: "Slow down and pass carefully"
+Choice 2: "Stop until the bus moves or the driver signals you to proceed"
+Choice 3: "Stop only if children are crossing your lane"
+Choice 4: "Pass if the road has more than one lane"
+Answer: 2
+}
+
+{
+Question: "When you hear or see an emergency vehicle approaching with lights or siren, what should you do?"
+Choice 1: "Speed up to stay ahead of it"
+Choice 2: "Pull to the right as far as possible and stop"
+Choice 3: "Stop immediately in your lane without moving right"
+Choice 4: "Pull left if the right lane is clear"
+Answer: 2
+}
+
+{
+Question: "At a railroad crossing with flashing red lights, where must you stop?"
+Choice 1: "5 to 10 feet from the nearest rail"
+Choice 2: "10 to 20 feet from the nearest rail"
+Choice 3: "15 to 50 feet from the nearest rail"
+Choice 4: "50 to 100 feet from the nearest rail"
+Answer: 3
+}
+
+{
+Question: "When parking downhill with a curb, which way should you turn your front wheels?"
+Choice 1: "To the left, away from the curb"
+Choice 2: "Straight ahead"
+Choice 3: "To the right, toward the curb"
+Choice 4: "Toward the center of the road"
+Answer: 3
+}
+
+{
+Question: "When parking uphill with a curb, which way should you turn your front wheels?"
+Choice 1: "To the right, toward the curb"
+Choice 2: "To the left, away from the curb"
+Choice 3: "Straight ahead"
+Choice 4: "Toward the downhill side only"
+Answer: 2
+}
+
+{
+Question: "If you accidentally drive the wrong way on a one-way street, what should you do?"
+Choice 1: "Continue until the next major intersection"
+Choice 2: "Make a U-turn immediately without stopping"
+Choice 3: "Pull off to the side and turn around when safe"
+Choice 4: "Back up in the lane until you reach the entrance"
+Answer: 3
+}
+
+{
+Question: "What does a broken yellow line between lanes usually mean?"
+Choice 1: "Traffic moves in the same direction and passing is prohibited"
+Choice 2: "Traffic moves in opposite directions and passing is allowed when safe"
+Choice 3: "The lane is reserved for emergency vehicles"
+Choice 4: "Drivers may pass only on the right"
+Answer: 2
+}
+
+{
+Question: "What is the proper use of a two-way left-turn lane?"
+Choice 1: "Passing slower vehicles"
+Choice 2: "Parking briefly when traffic is heavy"
+Choice 3: "Making left turns from either direction"
+Choice 4: "Driving long distances before merging"
+Answer: 3
+}
+
+{
+Question: "Large truck blind spots are commonly called:"
+Choice 1: "Clear Zones"
+Choice 2: "No-Zones"
+Choice 3: "Merge Zones"
+Choice 4: "Passing Zones"
+Answer: 2
+}
+
+{
+Question: "If you cannot see a truck driver in the truck’s mirror, what is usually true?"
+Choice 1: "The truck driver can still see you clearly"
+Choice 2: "You are probably in the truck driver’s blind spot"
+Choice 3: "You are far enough behind the truck"
+Choice 4: "The truck is required to slow down"
+Answer: 2
+}
+
+{
+Question: "When a vehicle has a two-part safety belt, what must the driver or passenger use?"
+Choice 1: "Only the shoulder belt"
+Choice 2: "Only the lap belt"
+Choice 3: "Both the lap belt and shoulder belt"
+Choice 4: "Either part, depending on speed"
+Answer: 3
+}
+
+{
+Question: "If an object extends more than 5 feet from a vehicle during the day, what must be attached to it?"
+Choice 1: "A white cloth"
+Choice 2: "A red flag"
+Choice 3: "A flashing blue light"
+Choice 4: "A reflective license plate"
+Answer: 2
+}
