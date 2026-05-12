@@ -1,0 +1,224 @@
+{
+Question: "When approaching a stop sign, what must you do?"
+Choice 1: "Slow down only if another car is coming"
+Choice 2: "Stop completely before proceeding"
+Choice 3: "Keep driving if the road looks clear"
+Choice 4: "Stop only if there is a police officer nearby"
+Answer: 2
+}
+
+{
+Question: "What does a red traffic light mean?"
+Choice 1: "Slow down and continue"
+Choice 2: "Stop, then go if no one is coming"
+Choice 3: "Stop completely until the light turns green"
+Choice 4: "Speed up before the light changes"
+Answer: 3
+}
+
+{
+Question: "What does a yellow traffic light mean?"
+Choice 1: "The light is about to turn red"
+Choice 2: "You must speed up"
+Choice 3: "You may ignore it"
+Choice 4: "The road is closed"
+Answer: 1
+}
+
+{
+Question: "What should you do when an emergency vehicle with flashing lights or siren approaches?"
+Choice 1: "Stop in your lane immediately"
+Choice 2: "Speed up to get away"
+Choice 3: "Pull over to the right and stop if safe"
+Choice 4: "Follow the emergency vehicle closely"
+Answer: 3
+}
+
+{
+Question: "What does a solid yellow line on your side of the road mean?"
+Choice 1: "Passing is allowed"
+Choice 2: "Passing is not allowed"
+Choice 3: "The road is one-way"
+Choice 4: "You must stop"
+Answer: 2
+}
+
+{
+Question: "What does a broken yellow line mean?"
+Choice 1: "Passing may be allowed when safe"
+Choice 2: "Passing is never allowed"
+Choice 3: "Only trucks may pass"
+Choice 4: "The lane is ending"
+Answer: 1
+}
+
+{
+Question: "What should you do before changing lanes?"
+Choice 1: "Only use your horn"
+Choice 2: "Signal, check mirrors, and check blind spots"
+Choice 3: "Move quickly without signaling"
+Choice 4: "Brake suddenly"
+Answer: 2
+}
+
+{
+Question: "What is a blind spot?"
+Choice 1: "An area behind your car that mirrors may not show"
+Choice 2: "A place where traffic lights do not work"
+Choice 3: "A road with no streetlights"
+Choice 4: "A lane only for bicycles"
+Answer: 1
+}
+
+{
+Question: "What should you do at a railroad crossing when the lights are flashing?"
+Choice 1: "Drive across quickly"
+Choice 2: "Stop and wait until it is safe to cross"
+Choice 3: "Stop only if you see a train"
+Choice 4: "Go around the gate if it is down"
+Answer: 2
+}
+
+{
+Question: "What does a yield sign mean?"
+Choice 1: "You have the right-of-way"
+Choice 2: "Slow down and give the right-of-way if needed"
+Choice 3: "Stop for exactly five seconds"
+Choice 4: "The road is closed ahead"
+Answer: 2
+}
+
+{
+Question: "At a four-way stop, who should go first?"
+Choice 1: "The driver who arrived first"
+Choice 2: "The largest vehicle"
+Choice 3: "The driver turning left"
+Choice 4: "The fastest driver"
+Answer: 1
+}
+
+{
+Question: "If two vehicles arrive at a four-way stop at the same time, who should usually go first?"
+Choice 1: "The driver on the left"
+Choice 2: "The driver on the right"
+Choice 3: "The driver with the louder horn"
+Choice 4: "The driver who moves first"
+Answer: 2
+}
+
+{
+Question: "What should you do when driving in heavy rain?"
+Choice 1: "Use high beams"
+Choice 2: "Drive faster to leave the rain"
+Choice 3: "Slow down and increase following distance"
+Choice 4: "Turn off your headlights"
+Answer: 3
+}
+
+{
+Question: "What is hydroplaning?"
+Choice 1: "When tires lose contact with the road because of water"
+Choice 2: "When brakes become stronger in rain"
+Choice 3: "When the engine overheats"
+Choice 4: "When headlights reflect from snow"
+Answer: 1
+}
+
+{
+Question: "What should you do if your vehicle starts to skid?"
+Choice 1: "Brake hard immediately"
+Choice 2: "Steer in the direction you want the vehicle to go"
+Choice 3: "Close your eyes briefly"
+Choice 4: "Turn the steering wheel sharply the opposite way"
+Answer: 2
+}
+
+{
+Question: "When parking uphill with a curb, which way should you turn your front wheels?"
+Choice 1: "Toward the curb"
+Choice 2: "Away from the curb"
+Choice 3: "Straight ahead"
+Choice 4: "It does not matter"
+Answer: 2
+}
+
+{
+Question: "When parking downhill with a curb, which way should you turn your front wheels?"
+Choice 1: "Away from the curb"
+Choice 2: "Toward the curb"
+Choice 3: "Straight ahead"
+Choice 4: "Toward the road"
+Answer: 2
+}
+
+{
+Question: "What should you do before entering a highway from an entrance ramp?"
+Choice 1: "Stop at the end of the ramp"
+Choice 2: "Match the speed of traffic and merge when safe"
+Choice 3: "Force other drivers to slow down"
+Choice 4: "Drive on the shoulder"
+Answer: 2
+}
+
+{
+Question: "What is the safest following distance in normal conditions?"
+Choice 1: "At least three seconds behind the vehicle ahead"
+Choice 2: "One foot behind the vehicle ahead"
+Choice 3: "Close enough to read the license plate"
+Choice 4: "Exactly one car length at any speed"
+Answer: 1
+}
+
+{
+Question: "What should you do when following a motorcycle?"
+Choice 1: "Follow more closely because motorcycles are smaller"
+Choice 2: "Give extra following distance"
+Choice 3: "Drive beside it in the same lane"
+Choice 4: "Use your horn often"
+Answer: 2
+}
+
+{
+Question: "What does a flashing red traffic signal mean?"
+Choice 1: "Slow down but do not stop"
+Choice 2: "Stop, then proceed when safe"
+Choice 3: "Speed up"
+Choice 4: "Only pedestrians must stop"
+Answer: 2
+}
+
+{
+Question: "What does a flashing yellow traffic signal mean?"
+Choice 1: "Stop and wait for green"
+Choice 2: "Proceed with caution"
+Choice 3: "The road is closed"
+Choice 4: "You must turn left"
+Answer: 2
+}
+
+{
+Question: "What should you do if a school bus stops with flashing red lights?"
+Choice 1: "Pass carefully on the left"
+Choice 2: "Stop and wait until the bus signals are off"
+Choice 3: "Pass if no children are visible"
+Choice 4: "Only slow down"
+Answer: 2
+}
+
+{
+Question: "What should you do before making a right turn?"
+Choice 1: "Signal and move close to the right side of the road"
+Choice 2: "Move to the far-left lane"
+Choice 3: "Turn without slowing down"
+Choice 4: "Stop in the middle of the intersection"
+Answer: 1
+}
+
+{
+Question: "What does a 'Slippery When Wet' sign warn drivers about?"
+Choice 1: "The road may be unusually slippery in wet weather"
+Choice 2: "The road is closed during rain"
+Choice 3: "Only trucks may use the road"
+Choice 4: "There is a gas station ahead"
+Answer: 1
+}

@@ -1,0 +1,402 @@
+:root {
+  --bg: #0f1117;
+  --card: #1c2030;
+  --card-hover: #252b3d;
+  --soft: #121622;
+  --text: #f4f6fb;
+  --muted: #a8afc3;
+  --accent: #7c8cff;
+  --accent-hover: #94a1ff;
+  --correct: #34d399;
+  --wrong: #fb7185;
+  --border: #2a3042;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(124, 140, 255, 0.18), transparent 30rem),
+    var(--bg);
+  color: var(--text);
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+#app {
+  width: min(960px, 100%);
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 42px 22px;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 28px;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(40px, 7vw, 64px);
+  letter-spacing: -0.06em;
+}
+
+h2 {
+  margin: 0 0 10px;
+}
+
+p {
+  color: var(--muted);
+}
+
+.badge {
+  align-self: flex-start;
+  padding: 10px 14px;
+  border-radius: 999px;
+  background: rgba(124, 140, 255, 0.14);
+  border: 1px solid rgba(124, 140, 255, 0.3);
+  font-weight: 800;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+.card-btn,
+.quiz-item {
+  background: var(--card);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 24px;
+  padding: 26px;
+  text-align: left;
+  transition: 0.16s ease;
+}
+
+.card-btn {
+  min-height: 175px;
+}
+
+.card-btn:hover,
+.quiz-item:hover,
+.card-btn.drag-over {
+  background: var(--card-hover);
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.icon {
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  margin-bottom: 16px;
+  border-radius: 16px;
+  background: rgba(124, 140, 255, 0.15);
+  color: var(--accent);
+  font-size: 24px;
+}
+
+.panel,
+.setup-card,
+.question-card,
+.result-card,
+.review-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 26px;
+}
+
+.panel {
+  padding: 18px;
+}
+
+.top-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: center;
+  margin-bottom: 22px;
+}
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.primary,
+.secondary,
+.ghost {
+  padding: 13px 17px;
+  border-radius: 15px;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.primary {
+  background: var(--accent);
+}
+
+.primary:hover {
+  background: var(--accent-hover);
+}
+
+.secondary {
+  background: var(--card);
+  border: 1px solid var(--border);
+}
+
+.ghost {
+  background: transparent;
+  border: 1px solid var(--border);
+}
+
+.quiz-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.quiz-item {
+  width: 100%;
+}
+
+.quiz-item h3 {
+  margin: 0 0 6px;
+}
+
+.empty {
+  padding: 36px;
+  text-align: center;
+}
+
+.setup-card,
+.result-card {
+  max-width: 620px;
+  margin: 60px auto;
+  padding: 34px;
+}
+
+.slider-line {
+  margin: 30px 0;
+}
+
+.slider-head {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+input[type="range"] {
+  width: 100%;
+  accent-color: var(--accent);
+}
+
+.quiz-shell {
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+.progress {
+  height: 9px;
+  background: #252b3c;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 24px;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.2s ease;
+}
+
+.question-card {
+  padding: 34px;
+}
+
+.question-card h2 {
+  font-size: clamp(23px, 4vw, 31px);
+  line-height: 1.35;
+}
+
+.choice-list {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-top: 28px;
+}
+
+.choice-btn {
+  display: flex;
+  gap: 14px;
+  width: 100%;
+  padding: 17px 18px;
+  border-radius: 17px;
+  background: var(--soft);
+  border: 1px solid var(--border);
+  color: var(--text);
+  text-align: left;
+}
+
+.choice-btn:hover {
+  border-color: var(--accent);
+  background: var(--card-hover);
+}
+
+.choice-btn.selected {
+  border-color: var(--accent);
+  background: rgba(124, 140, 255, 0.16);
+}
+
+.letter {
+  display: grid;
+  place-items: center;
+  min-width: 28px;
+  height: 28px;
+  border-radius: 9px;
+  background: rgba(124, 140, 255, 0.16);
+  color: var(--accent);
+  font-weight: 900;
+}
+
+.quiz-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.score {
+  font-size: 64px;
+  font-weight: 950;
+  margin: 20px 0 8px;
+}
+
+.review-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.review-card {
+  padding: 24px;
+}
+
+.review-card.correct {
+  border-color: rgba(52, 211, 153, 0.55);
+}
+
+.review-card.wrong {
+  border-color: rgba(251, 113, 133, 0.55);
+}
+
+.good {
+  color: var(--correct);
+  font-weight: 900;
+}
+
+.bad {
+  color: var(--wrong);
+  font-weight: 900;
+}
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: 28px;
+  transform: translateX(-50%);
+  padding: 13px 17px;
+  border-radius: 14px;
+  background: #23283a;
+  border: 1px solid var(--border);
+  opacity: 0;
+  transition: 0.2s;
+}
+
+.toast.show {
+  opacity: 1;
+  bottom: 36px;
+}
+
+@media (max-width: 760px) {
+  #app {
+    padding: 28px 16px;
+  }
+
+  .hero,
+  .top-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .quiz-nav,
+  .btn-row {
+    flex-direction: column;
+  }
+
+  .quiz-nav button,
+  .btn-row button {
+    width: 100%;
+  }
+}
+.install-note {
+  margin-top: 18px;
+}
+
+@media (max-width: 720px) {
+  #app {
+    padding: max(26px, env(safe-area-inset-top)) 14px max(26px, env(safe-area-inset-bottom));
+  }
+
+  .hero,
+  .top-row,
+  .quiz-nav,
+  .btn-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: clamp(38px, 12vw, 52px);
+  }
+
+  .card-btn,
+  .panel,
+  .setup-card,
+  .question-card,
+  .result-card,
+  .review-card {
+    border-radius: 22px;
+  }
+
+  .choice-btn {
+    min-height: 58px;
+    align-items: flex-start;
+  }
+}
